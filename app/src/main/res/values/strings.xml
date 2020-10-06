@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Sample_PBL</string>
+
+    <string-array name="Types">
+        <item>Lost</item>
+        <item>Found</item>
+    </string-array>
+
+    <string-array name="Regions">
+        <item>Vadgaon</item>
+        <item>Shivaji Nagar</item>
+        <item>Ambegaon</item>
+        <item>Hinjewadi</item>
+        <item>Aundh</item>
+        <item>Koregaon Park</item>
+        <item>Hadapsar</item>
+        <item>Bibwewadi</item>
+        <item>Swargate</item>
+        <item>Kothrud</item>
+        <item>Wakadewadi</item>
+        <item>Singad Road</item>
+        <item>Warje</item>
+        <item>Katraj</item>
+    </string-array>
+</resources>
